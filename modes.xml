@@ -22,7 +22,6 @@
         <file name="crh-tur.autolex.bin"/>
       </program>
       <program name="rtx-proc">
-        <file name="crh-tur.rtx.bin2"/>
         <file name="crh-tur.rtx.bin"/>
       </program>
       <program name="lt-proc $1">
@@ -96,7 +95,6 @@
         <file name="tur-crh.autolex.bin"/>
       </program>
       <program name="rtx-proc">
-        <file name="tur-crh.rtx.bin2"/>
         <file name="tur-crh.rtx.bin"/>
       </program>
       </program>
